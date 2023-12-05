@@ -16,11 +16,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
-
-- Azure Virtual Machine
-- Link to the Azure Portal: https://portal.azure.com
-
 <h2>First Steps</h2>
 
 
