@@ -1,5 +1,4 @@
-![image](![image](https://github.com/LuisTorres262/Creating-a-Virtual-Machine/assets/146790794/19ff4461-4cc7-4e4b-baaf-51bf69a13af1)
-)
+![image](https://github.com/DariusJ122/creating-vm/assets/150752364/a31856fc-efdf-4c2d-b665-2ed272e62cd1)
 
 
 
@@ -15,6 +14,11 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+
+<h2>List of Prerequisites</h2>
+
+- Azure Virtual Machine
+- Link to the Azure Portal: https://portal.azure.com
 
 <h2>First Steps</h2>
 
@@ -174,7 +178,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-21.) Boom. Should be done now. Going back to the Home for the Virtual Machines, it should be cleared out.
+22.) Now you're not quite done yet. Click the search bar and type "Resource Groups", you should now be looking at your current resource groups.
 
 
 
@@ -183,7 +187,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-22.) Now you're not quite done yet. Click the search bar and type "Resource Groups", you should now be looking at your current resource groups.
+23.) Now click that Resource Group whcih was automatically created when we created our Virtual Machine. And now click "Delete Resource Group". 
 
 
 
@@ -192,12 +196,10 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-23.) Now click that Resource Group whcih was automatically created when we created our Virtual Machine. And now click "Delete Resource Group".
+24.) Now type the name of the resource group, and click delete.
 
 
 ![image](https://github.com/DariusJ122/creating-vm/assets/150752364/cf42e946-243e-41dc-ab65-f4b183623390)
-
-24.) Now type the name of the resource group, and click delete.
 
 
 25.) CONGRATS!! You have now created your first Virtual Machine! Here's also a link to a creator who I watch pretty often, who's discussing some creative ways you can use a Virtual Machine - https://technotim.live/posts/20-ways-virtual-machine/
