@@ -25,12 +25,12 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 1.) The first thing you are going to want to do is create a virtual machine by going to https://portal.azure.com/. First login to azure. You should see the home screen, that looks like this image below.
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/5800872a-0bf5-44df-a136-8f30fa175ddb)
+![image](https://i.imgur.com/BqUa64Y.png)
 
 
 2.) Now head to the virtual machine icon, or simply type in the search bar "Virtual Machines".
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/9aba926a-4b3e-4ed7-b554-00a5667fe928)
+![image](https://i.imgur.com/zv6pZPj.png)
 
 </p>
 <br />
