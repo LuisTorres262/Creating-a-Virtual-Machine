@@ -49,38 +49,38 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 5.) Now you're in the process of choosing your Virtual Machine specs.
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/33d99957-1902-462f-9968-13be05a61342)
+![image](https://i.imgur.com/hePU6LU.png)
 
 
 
 6.) Start off by making sure you have a current subscription, and we're going to name this Virtual Machine "VM-1" (also take notice that we didn't have a resource group created, but it automatically populates one for you.) Set the region to wherever you want this machine to be. For the experiment I'll select Sweden Central. Than we're going to choose Windows 10 for the image.
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/81a158ab-e996-408a-b098-76f61dbb337d)
+![image](https://i.imgur.com/3qQm04x.png)
 
   
 7.) Now choose the size, we'll use "2 VCPUS,16 GIB Memory", and our username will be "labuser1" and the password will be "Password1VM1" make sure you click the windows checkbox, and than hit review and create!
   
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/ac731d30-bbff-4441-8286-047c6a5ccc8f)
+![image](https://i.imgur.com/uqpFYhu.png)
 
 
 8.) You should get a validation passed, and than hit create.
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/a170b46b-8ef9-42b1-bc35-e3de963757f3)
+![image](https://i.imgur.com/QFYiD4F.png)
 
 
 9.) Allow the Virtual Machine to deploy, ths may take a few minutes,
   
  
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/9445276f-196e-4356-92b2-631f23deb15a)
+![image](https://i.imgur.com/CFmqrGE.png)
 
  
 10.) The deployment should now be complete.
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/db14674a-db3f-48b6-a947-0448a7fadb81)
+![image](https://i.imgur.com/8HAcMDr.png)
 
 
   
@@ -88,7 +88,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/fcb29827-2cda-46fa-8e00-84c388d6bafb)
+![image](https://i.imgur.com/0pB1qtc.png)
 
 
 
@@ -96,7 +96,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
   
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/89996581-9e09-4788-8fbd-0514f6d405d5)
+![image](https://i.imgur.com/M7DHJUB.png)
 
 
 
@@ -104,7 +104,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/45380f85-a41c-4cae-a036-02e888a0fb87)
+![image](https://i.imgur.com/lJCrb00.png)
 
 
 
@@ -112,7 +112,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
   
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/45239334-14ca-4281-8851-feb674500d12)
+![image](https://i.imgur.com/ZYWrqpx.png)
 
 
 
@@ -120,7 +120,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 15.) You'll now be prompted to log in with a username and password. Using the one we created in the beginning log in, (labuser1 - username, Password1VM1 - passsword) you should see a prompt saying "Do you want to connect anyways?" Click yes.
   
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/01524929-4735-459f-b73d-ce15c9448abb)
+![image](https://i.imgur.com/qaoGD9r.png)
 
 
 
@@ -129,7 +129,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
   
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/3a42d681-fe82-4d15-b3a9-99eeba318d94)
+![image](https://i.imgur.com/SwdqUty.png)
 
 
 
@@ -137,7 +137,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/03e0dbfb-4f64-4386-aa1c-7331af3037d2)
+![image](https://i.imgur.com/PmjJwF1.png)
 
 
 
@@ -150,7 +150,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/24d5818d-7919-4358-a61c-a366e896a3da)
+![image](https://i.imgur.com/ESWex7r.png)
 
 
 
@@ -161,7 +161,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/0a7c2e47-4f63-40c9-930d-7a1923b73cab)
+![image](https://i.imgur.com/mSvgDeb.png)
 
 
 
@@ -171,7 +171,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/5f883ad2-36b6-4515-8af6-536b057670e8)
+![image](https://i.imgur.com/qjT77O9.png)
 
 
 
@@ -182,7 +182,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/a9f69598-7895-44de-ba69-76bfa7e6cbb0)
+![image](https://i.imgur.com/M2xc017.png)
 
 
 
@@ -191,7 +191,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/9be1c1ea-bba5-42bc-8c63-864813aac09b)
+![image](https://i.imgur.com/XuOHq1c.png)
 
 
 
@@ -199,7 +199,16 @@ This tutorial outlines the process of creating a VM using Microsoft Azure.<br />
 24.) Now type the name of the resource group, and click delete.
 
 
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/cf42e946-243e-41dc-ab65-f4b183623390)
+![image](https://i.imgur.com/km5vweT.png)
 
 
 25.) CONGRATS!! You have now created your first Virtual Machine! Here's also a link to a creator who I watch pretty often, who's discussing some creative ways you can use a Virtual Machine - https://technotim.live/posts/20-ways-virtual-machine/
+
+
+![image](https://i.imgur.com/B42lKhM.png)
+
+
+
+
+
+![image](https://i.imgur.com/yaKQ26C.png)
