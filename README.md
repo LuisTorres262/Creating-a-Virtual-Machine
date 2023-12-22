@@ -1,4 +1,4 @@
-![image](https://github.com/DariusJ122/creating-vm/assets/150752364/a31856fc-efdf-4c2d-b665-2ed272e62cd1)
+![image](https://i.imgur.com/HLsTXdH.png)
 
 
 
