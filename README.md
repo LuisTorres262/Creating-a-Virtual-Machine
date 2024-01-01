@@ -199,8 +199,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 
-19.) Now after you're done with your Virtual Machine let's head back to clean up our project. So hit the windows key or click the icon on your computer and type CMD to open command prompt, type "logoff"
-20.) Now you should be back inside the Azure Portal, and looking inside the Virtual Machine specs and settings. Now click delete.
+19.) Now after you're done with your Virtual Machine make sure you log out of the virtual machine. Once that is done you should be back in the Azure portal, and looking inside the Virtual Machine settings. Find and click the "Delete" button. 
 21.) You'll now see the option to delete, you want to click all the boxes, to delete the Network Interface and Public IP address. Click delete. Give it a minute or two to delete.
 
 
@@ -208,9 +207,8 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 
-20.) Now you should be back inside the Azure Portal, and looking inside the Virtual Machine specs and settings. Now click delete.
-21.) You'll now see the option to delete, you want to click all the boxes, to delete the Network Interface and Public IP address. Click delete. Give it a minute or two to delete.
-22.) Boom. Should be done now. Going back to the Home for the Virtual Machines, it should be cleared out.
+20.) You'll now see the option to delete, you want to click all the boxes, to delete the Network Interface and Public IP address. Click delete. Give it a minute or two to delete.
+21.) Boom. Should be done now. Going back to the Home for the Virtual Machines, it should be cleared out.
 
 
 
@@ -218,9 +216,8 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 
-21.) You'll now see the option to delete, you want to click all the boxes, to delete the Network Interface and Public IP address. Click delete. Give it a minute or two to delete.
-22.) Boom. Should be done now. Going back to the Home for the Virtual Machines, it should be cleared out.
-23.) Now you're not quite done yet. Click the search bar and type "Resource Groups", you should now be looking at your current resource groups.
+21.) Boom. Should be done now. Going back to the Home for the Virtual Machines, it should be cleared out.
+22.) Now you're not quite done yet. Click the search bar and type "Resource Groups", you should now be looking at your current resource groups.
 
 
 
