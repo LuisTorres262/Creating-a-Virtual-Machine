@@ -216,7 +216,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 
-21.) Boom. Should be done now. Going back to the Home for the Virtual Machines, it should be cleared out.
+21.) Boom! It should be done now. Go back to the home page for the Virtual Machines, it should be cleared out.
 22.) Now you're not quite done yet. Click the search bar and type "Resource Groups", you should now be looking at your current resource groups.
 
 
@@ -225,9 +225,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 
-22.) Boom. Should be done now. Going back to the Home for the Virtual Machines, it should be cleared out.
-23.) Now you're not quite done yet. Click the search bar and type "Resource Groups", you should now be looking at your current resource groups.
-24.) Now click that Resource Group whcih was automatically created when we created our Virtual Machine. And now click "Delete Resource Group". 
+22.) Now you're not quite done yet. Click the search bar and type "Resource Groups". You should see your current active resource groups. Click the Resource Group that was automatically created when we created our Virtual Machine and click "Delete Resource Group". 
 
 
 
@@ -235,7 +233,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 
-23.) Now you're not quite done yet. Click the search bar and type "Resource Groups", you should now be looking at your current resource groups.
 24.) Now click that Resource Group whcih was automatically created when we created our Virtual Machine. And now click "Delete Resource Group".
 25.) Now type the name of the resource group, and click delete.
 
