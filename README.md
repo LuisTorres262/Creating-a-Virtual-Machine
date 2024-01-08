@@ -74,7 +74,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
   
 
-6.) We're going to name this Virtual Machine "VM1" (also take notice that we didn't have a resource group created, but it automatically populates one for you.) Set the region to wherever you want this machine to be. For this tutorial, I'll select Japan East (You will see how this affects your virtual machine later). Then we're going to choose Windows 10 for the image.
+6.) We're going to name this Virtual Machine "VM1" (also take notice that we didn't have a resource group created, but it automatically populates one for you.) Set the region to wherever you want this machine to be. For this tutorial, I'll select Japan East (You will see how this affects your virtual machine later).
 
 7.) Now choose the size, we'll use "2 VCPUS,16 GIB Memory", and our username will be "labuser" and the password will be "Password1VM1". Make sure you click the windows checkbox, and than hit review and create!
   
@@ -84,7 +84,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 
-7.) For the size, we'll use "2 VCPUS,16 GIB Memory". Our username will be "labuser" and the password will be "Password1VM1". Make sure you click the Windows checkbox, and then hit review and create.
+7.) We will choose "Windows 10" for the image and "2 VCPUS,16 GIB Memory" for the size. Our username will be "labuser" and the password will be "Password1VM1". Make sure you click the Windows checkbox, and then hit review and create.
 8.) You should get a validation passed, and than hit create.
 
 
