@@ -243,4 +243,4 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 
-24.) CONGRATS!! You have now created your first Virtual Machine!
+24.) CONGRATS!! You have now created and cleaned up your first Virtual Machine!
