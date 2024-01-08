@@ -243,7 +243,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 25.) Now type the name of the resource group, and click delete. Do the same for any other resource groups that need to be deleted.
-26.) CONGRATS!! You have now created your first Virtual Machine!
 
 
 
@@ -251,4 +250,4 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 
-25.) Now type the name of the resource group, and click delete. CONGRATS!! You have now created your first Virtual Machine!
+25.) CONGRATS!! You have now created your first Virtual Machine!
