@@ -30,7 +30,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 1.) The first thing you will do is visit the website, https://portal.azure.com. Login to your account or create one once you get to the website. After logging in or creating your account, you should see the home screen that looks like the image above.
-2.) Now head to the virtual machine icon, or simply type in the search bar "Virtual Machines".
 
 
 
@@ -39,8 +38,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 2.) Now head to the virtual machine icon, or simply type in the search bar "Virtual Machines".
-3.) You should now see the homepage of the Virtual Machine tab.
-
 
 
 ![image](https://i.imgur.com/NpJNDW8.png)
@@ -48,7 +45,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 3.) You should now see the homepage of the Virtual Machine tab.
-4.) Click on the top left dropdown where it says Create, and choose Azure Virtual Machine.
 
 
 
@@ -57,7 +53,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 4.) Click on the top left dropdown where it says "Create" and choose Azure Virtual Machine.
-5.) Now you're in the process of choosing your Virtual Machine specs.
 
 
 
@@ -66,7 +61,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 5.) Now you're in the process of choosing your Virtual Machine specs.
-6.) Start off by making sure you have a current subscription, and we're going to name this Virtual Machine "VM1" (also take notice that we didn't have a resource group created, but it automatically populates one for you.) Set the region to wherever you want this machine to be. For the experiment I'll select Sweden Central. Than we're going to choose Windows 10 for the image.
 
 
 
@@ -75,8 +69,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
   
 
 6.) We're going to name this Virtual Machine "VM1" (also take notice that we didn't have a resource group created, but it automatically populates one for you.) Set the region to wherever you want this machine to be. For this tutorial, I'll select Japan East (You will see how this affects your virtual machine later).
-
-7.) Now choose the size, we'll use "2 VCPUS,16 GIB Memory", and our username will be "labuser" and the password will be "Password1VM1". Make sure you click the windows checkbox, and than hit review and create!
   
 
 
@@ -85,7 +77,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 7.) We will choose "Windows 10" for the image and "2 VCPUS,16 GIB Memory" for the size. Our username will be "labuser" and the password will be "Password1VM1". Make sure you click the Windows checkbox, and then hit review and create.
-8.) You should get a validation passed, and than hit create.
   
  
 
@@ -94,8 +85,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
  
 
 8.) You should get a validation passed, then hit create.
-9.) Allow the Virtual Machine to deploy (This may take a few minutes).
-10.) The deployment should now be complete.
 
 
 
@@ -104,8 +93,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 9.) Allow the Virtual Machine to deploy (This may take a few minutes).
-10.) The deployment should now be complete.
-11.) Click go to resource, it'll take you straight to the VM.
 
 
 
@@ -114,7 +101,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 10.) The deployment should now be complete. Click, "Go to resource".
-12.) You may see a lot of things going on, but for now just focus on the public IP address, that's what we want. So copy that.
   
 
 
@@ -123,7 +109,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 11.) You may see a lot of things going on, but for now, just focus on the public IP address and copy it. 
-13.) Now press the windows key either on your keyboard or on the screen. Type "RDC" and you should see "Remote Desktop Connection" click that.
 
 
 
@@ -132,7 +117,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 12.) I am using a Mac so I will be using the Microsoft Remote Desktop app. Open the application and select "Add PC".
-14.) You should see the login pop-up, now paste that IP address into the pop-up, and hit connect.
   
 
 
@@ -141,8 +125,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 13.) You should see a pop-up to input an IP address. Paste the IP address into the pop-up, and hit "Add".
-15.) You'll now be prompted to log in with a username and password. Using the one we created in the beginning log in, (labuser1 - username, Password1VM1 - passsword) you should see a prompt saying "Do you want to connect anyways?" Click yes.
-  
+
 
 
 ![image](https://i.imgur.com/qaoGD9r.png)
@@ -150,7 +133,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 14.) You'll be prompted to log in with a username and password. Using the ones we created, in the beginning (labuser - username, Password1VM1 - password), hit continue to login. 
-16.) You should be taken inside the Virtual Machine, if you used the labuser name, it should log you into the Virtual Machine as "labuser", you'll then see a prompt asking you to check and uncheck some things, for this experiment uncheck all and hit accept.
 
   
 
@@ -159,7 +141,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 15.) You should be taken inside the Virtual Machine, if you used the labuser name, it should log you into the Virtual Machine as "labuser", you'll then see a prompt asking you to check and uncheck some things, for this experiment uncheck all and hit accept.
-17.) You're now inside a virtual machine! Now remember I selected Sweden as my Virtual Machine location. What do you think my Google would look like? Boom! Because I set my Virtual Machine location to Sweden it acts as a computer connected to a network in Sweden! Pretty cool right?
 
 
 
@@ -168,13 +149,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 16.) You're now inside a virtual machine! Now remember I selected Japan as my Virtual Machine location. What do you think my Google would look like?
-18.) Boom! Because I set my Virtual Machine location to Japan it acts as a computer connected to a network in Japan! Pretty cool right? 
-19.) Now after you're done with your Virtual Machine let's head back to clean up our project. So hit the windows key or click the icon on your computer and type CMD to open command prompt, type "logoff"
-
-
-
-17.) Now after you're done with your Virtual Machine let's head back to clean up our project. So hit the windows key or click the icon on your computer and type CMD to open command prompt, type "logoff"
-20.) Now you should be back inside the Azure Portal, and looking inside the Virtual Machine specs and settings. Now click delete.
 
 
 
@@ -183,8 +157,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 17.) Boom! Because I set my Virtual Machine location to Japan it acts as a computer connected to a network in Japan! Pretty cool right? 
-19.) Now after you're done with your Virtual Machine let's head back to clean up our project. So hit the windows key or click the icon on your computer and type CMD to open command prompt, type "logoff"
-20.) Now you should be back inside the Azure Portal, and looking inside the Virtual Machine specs and settings. Now click delete.
 
 
 
@@ -193,7 +165,7 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 18.) Now after you're done with your Virtual Machine make sure you log out of the virtual machine. Once that is done you should be back in the Azure portal, and looking inside the Virtual Machine settings. Find and click the "Delete" button. 
-21.) You'll now see the option to delete, you want to click all the boxes, to delete the Network Interface and Public IP address. Click delete. Give it a minute or two to delete.
+
 
 
 ![image](https://i.imgur.com/qjT77O9.png)
@@ -201,7 +173,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 19.) You'll now see the option to delete, you want to click all the boxes, to delete the Network Interface and Public IP address. Click delete. Give it a minute or two to delete.
-21.) Boom. Should be done now. Going back to the Home for the Virtual Machines, it should be cleared out.
 
 
 
@@ -210,7 +181,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 20.) Boom! It should be done now. Go back to the home page for the Virtual Machines, it should be cleared out.
-22.) Now you're not quite done yet. Click the search bar and type "Resource Groups", you should now be looking at your current resource groups.
 
 
 
@@ -227,7 +197,6 @@ This tutorial outlines the process of creating a VM using Microsoft Azure on a M
 
 
 22.) Click the Resource Group that was automatically created when we created our Virtual Machine and click "Delete Resource Group".
-25.) Now type the name of the resource group, and click delete.
 
 
 
